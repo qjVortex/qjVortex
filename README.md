@@ -17,7 +17,7 @@
 <a href="https://github.com/Wonxen" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://open.spotify.com/user/r07r36xjkamgtz9kwyoivspye" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wonxen" alt="Flicker" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tospik35" alt="Flicker" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
