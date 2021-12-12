@@ -22,7 +22,5 @@
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
 <a href="https://github.com/Tospik35/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Tospik35&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
-<a href="https://github.com/Tospik35/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tospik35&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
-</p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/897507358534684722?hideDiscrim=true)](https://discord.com/users/897507358534684722)
+
