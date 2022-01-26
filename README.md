@@ -20,6 +20,6 @@
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/Tospik35/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Tospik35&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/qjVortex/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Tospik35&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 
 
