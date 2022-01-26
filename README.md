@@ -14,12 +14,12 @@
 <p align="left">
 <a href="https://discord.com/users/897507358534684722" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.instagram.com/hasan.qqe/?hl=trs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/Tospik35" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/qjVortex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tospik35" alt="Flicker" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/qjVortex/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Tospik35&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/qjVortex/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=qjVortex&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 
 
