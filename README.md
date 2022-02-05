@@ -33,4 +33,6 @@
 <p align="center">
 <a href="https://github.com/qjVortex/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=qjVortex&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 
+# My Discord Profile
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/650655679908020243?hideDiscrim=true)](https://discord.com/users/650655679908020243)
 
