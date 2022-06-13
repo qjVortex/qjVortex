@@ -1,4 +1,4 @@
-<h1 align="center">Herkese Selam , Ben qjVortex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
+<h1 align="center">Herkese Selam , Ben Vortex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
 2018 Yılından Beri Discord Platformunda (JavaScript) Temelli Bot Geliştiriyorum. <br>
 </p>
@@ -23,8 +23,8 @@
 <br />
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
-<a href="https://discord.com/users/650655679908020243" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
- <a href="https://www.instagram.com/hasan.qqe/?hl=trs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.com/users/960612565162004491" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+ <a href="https://www.instagram.com/vortex_dev/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/qjVortex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tospik35" alt="Flicker" /> </p>
